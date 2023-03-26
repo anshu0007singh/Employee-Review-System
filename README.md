@@ -74,4 +74,4 @@ employee-review-system
     └── partials
 ```
 
-Admin details for login : username anshusingh@gmail.com password : wizzenalum (In case of failure use the default id password provided in the use controller)
+Admin details for login : username anshusingh@gmail.com password : wizzenalum (In case of failure use the default id password provided in the user controller)
