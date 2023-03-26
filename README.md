@@ -75,3 +75,6 @@ employee-review-system
 ```
 
 Admin details for login : username anshusingh@gmail.com password : wizzenalum (In case of failure use the default id password provided in the user controller)
+```
+AS the link can't be hosted  as provided in the question I am paisting the github link in hosting section also as it is in astreik it is mandatory.
+```
